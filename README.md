@@ -4,7 +4,7 @@ A small PyTorch project in which a recurrent agent **learns how to learn** a goa
 
 I built this to learn the basics of deep reinforcement learning and neural-representation analysis, inspired by work on schema learning and hippocampal remapping.
 
-![Results](figures/results.png)
+   ![Results](results.png)
 
 ## The task
 
